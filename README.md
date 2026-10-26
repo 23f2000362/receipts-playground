@@ -1,1 +1,3 @@
 # calc
+
+Now with docs.
