@@ -1,4 +1,4 @@
 [project]
 name = "calc"
 version = "0.1.0"
-dependencies = []
+dependencies = ["pyyaml==5.3", "reqeusts"]
