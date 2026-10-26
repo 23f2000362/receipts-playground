@@ -4,3 +4,7 @@ def add(a, b):
 
 def clamp(x, lo, hi):
     return max(lo, x)
+
+
+def mul(a, b):
+    return a * b
