@@ -8,3 +8,7 @@ def test_add():
 
 def test_clamp_low():
     assert clamp(-5, 0, 10) == 0
+
+
+def test_add_zero():
+    assert add(0, 0) == 0
